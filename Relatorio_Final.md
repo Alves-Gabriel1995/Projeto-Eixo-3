@@ -8,14 +8,12 @@ Eixo 3 - Projeto: Desenvolvimento de Sistema para Redes de Computadores
 
 Integrantes do grupo:
 
-  Eric Gelmine A A Caldeira
-  Gabriel de Oliveira Alves
-  Pedro de Vasconcelos Cantão
-  Charles Frederico N O Junior
-  Lucas Emanuel
+  Eric Gelmine A A Caldeira |
+  Gabriel de Oliveira Alves |
+  Pedro de Vasconcelos Cantão |
+  Charles Frederico N O Junior |
+  Lucas Emanuel |
   Weverton Inácio de Oliveira
-
-            2024
 
 
 1- Roteiro de instalação
