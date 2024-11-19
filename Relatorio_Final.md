@@ -6,6 +6,7 @@ RELATÓRIO TÉCNICO
 
 Eixo 3 - Projeto: Desenvolvimento de Sistema para Redes de Computadores
 
+
 Integrantes do grupo:
 
   Eric Gelmine A A Caldeira |
@@ -13,7 +14,8 @@ Integrantes do grupo:
   Pedro de Vasconcelos Cantão |
   Charles Frederico N O Junior |
   Lucas Emanuel |
-  Weverton Inácio de Oliveira
+  Weverton de Oliveira
+
 
 
 1- Roteiro de instalação
